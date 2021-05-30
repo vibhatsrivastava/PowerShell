@@ -1,2 +1,2 @@
-# PowerShell
-PowerShell Automation Scripts
+# PowerShell Scripts
+
